@@ -10,7 +10,7 @@ import java.util.Vector;
 
 public class AWeight {
 
-    private AttributeManager AIList; //Map of attributes' importances.
+    private AttributeImportance AIList; //Map of attributes' importances.
 
     private Vector<String> ca; //Vector of common attributes (names).
 
